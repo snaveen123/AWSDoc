@@ -1,0 +1,57 @@
+To display the
+current date and time, you can run the date command
+
+To display the
+calendar of the current month, you can run the cal command
+-Cal
+-cal 2022
+-cal feb 2023
+
+You can run the clear command to clear
+the Terminal screen
+
+You can use the lscpu command, which is short for List CPU, to display your CPU
+architecture information:
+
+You can use the uptime command to check how long your system has been running. The
+uptime command also displays:
+The current time.
+The number of users that are currently logged on.
+The system load averages for the past 1, 5, and 15 minutes.
+
+You can run the reboot command to restart your system:
+
+You can run the pwd command to print the name of your current working directory:
+
+You can run the ls command to list the contents of your current working directory:
+
+If you want to change your password, you can run the passwd command:
+
+You can use the hostname command to display your system's hostname:
+
+You can use the free command to display the amount of free and used memory on your
+system:
+--free -h
+--free --human
+
+You can use the df command to display the amount of disk space available on your system:
+-df -h
+
+The echo command is another very useful command; it allows you to print a line of text on
+your Terminal
+
+Let's run the history command and see what we get here:
+
+On my history list, the lscpu command is number 7, so If I want to
+rerun lspcu, all I need to do is run !7
+
+You can use the uname command to display your system's kernel information. 
+-uname -v
+-uname -r
+-uname -a
+
+You can also run the lsb_release -a command to display the Ubuntu version you are
+currently running
+
+the last command you are going to learn in this chapter is the exit command,
+which terminates your current Terminal session:
