@@ -90,3 +90,28 @@ Future Planning: -
 •	To engage myself in all upcoming events to enhance skills towards Client Interaction and presentation skills.
 •	Planned to complete an Internal or External Certificate courses to enhance my knowledge.
 •	Need to acquire knowledge Software Asset Management
+
+
+Grow DXC:
+  - Achieved 100% compliance with time tracking for the fiscal year FY24-25.
+  - Completed all DXC mandatory Trainings(Code of conduct/ Security) within the Time frame without any delay.
+
+Grow your team and customer:
+  - Prepared and verified the impact job list for weekend outage.
+  - Performed Non-prod & Prod deployments for FDM.
+  - Successfully handled both the user provision request and the PWC request within the specified time frame, ensuring no delays.
+  - Closely worked with SM team in resolving EPM drift reports.
+  - Supported for FDM simulated MERT and Oracle as a service MERT Activity.
+  - Worked on last user login report for all the EPM applications.
+  - Completed all CBA mandatory Trainings within the Time frame.
+  - Provided assistance whenever the team required support.
+  - Conducted knowledge transfer sessions for the new successor.
+  - Effectively monitor the any alerts/email, ensuring no escalation.
+
+Grow Yourself:
+
+
+
+
+
+
