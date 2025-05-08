@@ -1,0 +1,49 @@
+Results-driven Production Support Engineer with 4.10 years of experience in managing and troubleshooting complex systems in fast-paced environments. Adept at identifying, and resolving production issues to ensure smooth operations and minimal downtime. Skilled in ETL Tool(DataStage, Oracle EPM Cloud Applications(ARCS, FCCS, RBS, Planning, ESSBASE), SQL & Unix commands with a proven track record of improving system efficiency and performance. Strong communicator, collaborating effectively with cross-functional teams and enhance overall system reliability.
+
+•	Involved in monitoring the EPM Jobs from CA Workload Automation and FDM jobs from ETL tools(IBM DataStage),Putty and WINSCP.
+	Performed Non-Prod & Prod deployments in Unix and DataStage for FDM.
+•	Resolved over 500 system issues within SLA, improving system uptime from 98% to 99.8%.
+•	Prepared and verified the impact job list for weekend outages.
+•	Ensuring the daily runs, schedules, and health of the system are maintained.
+	Worked closely with development teams to address recurring issues, effectively reducing repeat incidents by 15%.
+•	Monitoring the disk space in server.
+•	Prepare an audit document for Oracle EPM Cloud Application and FDM to meet business expectations.
+•	Document the process which are shared by the CBA/ Squad.
+•	Working on Account creation and suspension for the users in Xplan Finwis and Xplan Voyager.
+
+
+
+
+Core Skills
+
+To meet Business expectation, i have resolved 
+
+Familiar with knowing Oracle EPM cloud applications user access creation and resolved over 1000 request within SLA 
+
+Skilled in establishing user access to Oracle EPM cloud applications and resolving over 1000 requests within the SLA.
+Familiar with creating user access to Oracle EPM cloud applications and resolving over 1000 requests within the SLA.
+
+
+EPM:
+Job Monitoring
+Data file size check in Oracle cloud applications to ensure application stability and storage
+Prepared Impact analysis document from Oracle Cloud portal.
+Closely worked with SM team in resolving EPM drift report.
+Worked EPM and FDM audit request within specific timeframe, ensuring no delays.
+For OLA agreement, Alone with our team. i have involved upstream, downstream, and business to ensure file delivery smoothly. We have worked 60+ runstreams OLA and aligned with all team and achieved file delay reduce from 40% to 5%.
+Standard Operation procedure document have prepared for all issues, ensuring for future refer.
+Have found batch long run issue in DB and reduce the run time from 60 mins to 2 mins for 10 runstreams by working with respective team.
+Performed Migration/Actual failure activity with help of dev team support.
+Familiar with knowing incident, Problem and change management process.
+Conducted knowledge transfer sessions for new successor.
+Prepare and reporting the Weekly/Monthly status report to Delivery manager.   
+
+
+ 
+
+
+ 
+
+
+
+ 
