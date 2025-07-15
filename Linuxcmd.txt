@@ -55,3 +55,9 @@ currently running
 
 the last command you are going to learn in this chapter is the exit command,
 which terminates your current Terminal session:
+
+https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsystem-test.onvue.com%2Fsystem_test%3Fcustomer%3Dpearson_vue%26clientcode%3DAWS%26candidate_id%3D320629136%26registration_id%3D510356369%26locale%3Den-US&data=05%7C02%7Cnaveenkumar.s%40dxc.com%7C691f7555b3e643e4543908ddc03968ae%7C93f33571550f43cfb09fcd331338d086%7C0%7C0%7C638878075002799792%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=dhkI9X7H3rRjZAGbgzo3C1a511SuwpMoS2kxBY07wjg%3D&reserved=0
+
+
+
+https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fexamlaunchpad.pearsonvue.com%2Fentry-point%2Flaunch-exam%2FAWS%2FOP%3FregistrationToken%3DkXeTnwzmp9%252B8HOKCFcDNA2Qo9OYemkzh4j6AxhUAJn0T8osqMiqarazuFnH6BJwfi6WjntFyg5%252BNCOQon4XVkqkCKe5bH7UZ75BFxYu4lCFLHcO7mPUL84ToR69SoaJ7JRj5PgHmgmv1aCXo4TXu6Q%253D%253D%26locale%3Den-US&data=05%7C02%7Cnaveenkumar.s%40dxc.com%7C691f7555b3e643e4543908ddc03968ae%7C93f33571550f43cfb09fcd331338d086%7C0%7C0%7C638878075002809036%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=b%2FqfM%2BIDf5yCGTA7ZBBw0iOfN88VRCkWpQ5urDO8uIc%3D&reserved=0
